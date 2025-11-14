@@ -1,0 +1,51 @@
+,name,prepTimeMinutes,cookTimeMinutes,servings,difficulty,cuisine,caloriesPerServing,userId,rating,reviewCount,Appetizer,Beverage,Breakfast,Dessert,Dinner,Lunch,Side Dish,Snack,Snacks
+0,Classic Margherita Pizza,20,15,4,0,7,300,166,4.6,98,0,0,0,0,1,0,0,0,0
+1,Vegetarian Stir-Fry,15,20,3,1,1,250,143,4.7,26,0,0,0,0,0,1,0,0,0
+2,Chocolate Chip Cookies,15,10,24,0,0,150,34,4.9,13,0,0,0,1,0,0,0,1,0
+3,Chicken Alfredo Pasta,15,20,4,1,7,500,136,4.9,82,0,0,0,0,1,1,0,0,0
+4,Mango Salsa Chicken,15,25,3,0,12,380,26,4.9,63,0,0,0,0,1,0,0,0,0
+5,Quinoa Salad with Avocado,20,15,4,0,11,280,197,4.4,59,0,0,0,0,0,1,1,0,0
+6,Tomato Basil Bruschetta,15,10,6,0,7,120,137,4.7,95,1,0,0,0,0,0,0,0,0
+7,Beef and Broccoli Stir-Fry,20,15,4,1,1,380,18,4.7,58,0,0,0,0,1,0,0,0,0
+8,Caprese Salad,10,0,2,0,7,200,128,4.6,82,0,0,0,0,0,1,0,0,0
+9,Shrimp Scampi Pasta,15,20,3,1,7,400,114,4.3,5,0,0,0,0,1,0,0,0,0
+10,Chicken Biryani,30,45,6,1,14,550,133,5.0,32,0,0,0,0,1,1,0,0,0
+11,Chicken Karahi,20,30,4,0,14,420,49,4.8,68,0,0,0,0,1,1,0,0,0
+12,Aloo Keema,25,35,5,1,14,380,152,4.6,53,0,0,0,0,1,1,0,0,0
+13,Chapli Kebabs,30,20,4,1,14,320,152,4.7,98,0,0,0,0,1,1,0,0,1
+14,Saag (Spinach) with Makki di Roti,40,30,3,1,14,280,43,4.3,86,0,0,1,0,1,1,0,0,0
+15,Japanese Ramen Soup,20,25,2,1,8,480,85,4.9,38,0,0,0,0,1,0,0,0,0
+16,Moroccan Chickpea Tagine,15,30,4,0,13,320,207,4.5,50,0,0,0,0,1,0,0,0,0
+17,Korean Bibimbap,30,20,2,1,9,550,121,4.9,56,0,0,0,0,1,0,0,0,0
+18,Greek Moussaka,45,45,6,1,4,420,173,4.3,26,0,0,0,0,1,0,0,0,0
+19,Butter Chicken (Murgh Makhani),30,25,4,1,14,480,138,4.5,44,0,0,0,0,1,0,0,0,0
+20,Thai Green Curry,20,30,4,1,18,480,153,4.2,18,0,0,0,0,1,0,0,0,0
+21,Mango Lassi,10,0,2,0,6,180,76,4.7,15,0,1,0,0,0,0,0,0,0
+22,Italian Tiramisu,30,0,6,1,7,350,130,4.6,0,0,0,0,1,0,0,0,0,0
+23,Turkish Kebabs,25,15,4,0,19,280,26,4.6,78,0,0,0,0,1,0,0,0,0
+24,Blueberry Banana Smoothie,10,0,1,0,16,220,16,4.8,30,0,1,1,0,0,0,0,0,0
+25,Mexican Street Corn (Elote),15,15,4,0,12,180,93,4.6,2,0,0,0,0,0,0,1,1,0
+26,Russian Borscht,30,40,6,1,15,220,1,4.3,39,0,0,0,0,1,0,0,0,0
+27,South Indian Masala Dosa,40,20,4,1,6,320,138,4.4,96,0,0,1,0,0,0,0,0,0
+28,Lebanese Falafel Wrap,15,10,2,0,10,400,110,4.7,84,0,0,0,0,0,1,0,0,0
+29,Brazilian Caipirinha,5,0,1,0,2,150,134,4.4,55,0,1,0,0,0,0,0,0,0
+30,Spanish Patatas Bravas,20,30,4,0,17,240,129,4.5,21,1,0,0,0,0,0,0,0,0
+31,Vietnamese Fresh Spring Rolls,15,10,4,0,20,180,113,4.2,97,1,0,0,0,0,0,0,0,0
+32,Mediterranean Quinoa Salad,20,15,6,0,11,220,154,4.8,83,0,0,0,0,0,1,1,0,0
+33,Japanese Matcha Green Tea Ice Cream,30,15,4,1,8,280,174,4.2,87,0,0,0,1,0,0,0,0,0
+34,Brazilian Chocolate Brigadeiros,20,10,8,0,2,120,175,4.2,65,0,0,0,1,0,0,0,0,0
+35,Mexican Chicken Enchiladas,25,20,4,1,12,380,8,4.1,67,0,0,0,0,1,0,0,0,0
+36,Thai Coconut Shrimp Curry,20,15,3,1,18,420,113,4.9,85,0,0,0,0,1,0,0,0,0
+37,Greek Spanakopita,30,40,8,1,4,280,68,4.6,19,1,0,0,0,0,0,0,0,0
+38,Moroccan Couscous Salad,15,10,6,0,13,260,102,4.1,19,0,0,0,0,0,1,1,0,0
+39,Classic Mojito,10,0,1,0,3,150,191,4.7,89,0,1,0,0,0,0,0,0,0
+40,Caprese Bruschetta,15,5,6,0,7,150,148,4.2,38,1,0,0,0,0,0,0,0,0
+41,Teriyaki Chicken Stir-Fry,15,10,4,0,8,320,171,4.6,95,0,0,0,0,1,0,0,0,0
+42,Mango Avocado Salsa,10,0,4,0,12,90,30,4.1,78,1,0,0,0,0,0,0,1,0
+43,Shrimp and Asparagus Stir-Fry,15,10,3,0,1,250,195,4.7,13,0,0,0,0,1,0,0,0,0
+44,Italian Margherita Pizza,20,12,4,0,7,280,160,4.7,98,0,0,0,0,1,0,0,0,0
+45,Pesto Pasta with Cherry Tomatoes,15,10,3,0,7,320,79,4.3,54,0,0,0,0,1,0,0,0,0
+46,Hawaiian Chicken Skewers,20,15,4,0,5,280,177,4.7,77,0,0,0,0,1,0,0,0,0
+47,Cucumber Avocado Rolls,20,0,3,0,8,180,190,4.3,94,1,0,0,0,0,1,0,0,0
+48,Mediterranean Chickpea Salad,15,0,4,0,11,220,183,4.7,70,0,0,0,0,0,1,1,0,0
+49,Pineapple Coconut Smoothie,10,0,2,0,16,200,172,4.4,45,0,1,1,0,0,0,0,0,0
